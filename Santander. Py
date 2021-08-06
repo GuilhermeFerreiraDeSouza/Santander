@@ -1,0 +1,7 @@
+echo "# Santander" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M principal 
+git remote add origin https://github.com/GuilhermeFerreiraDeSouza/Santander.git
+ git push - sua origem principal
